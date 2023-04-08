@@ -1,8 +1,9 @@
 # TriangleAreaCalculator (Test taks)
-Calculator for calculating area of geometric figures using different formulas
+Calculator of area geometric figures (triangles) which use different formulas
 
 # Technologies
 
 - TDD
 - OOP principles
+- SOLID
 - Chain of responsibility pattern
